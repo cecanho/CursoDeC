@@ -7,7 +7,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 
 <p> Vídeos do canal: </p>
 <ul>
-  <li><a href="blank">Vídeo chamada</a></li>
+  <li><a href="https://youtube.com/live/AqX_BI40fyY?feature=share">Vídeo chamada</a></li>
 </ul>
 
 <h2> Sobre </h2>
