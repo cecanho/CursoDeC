@@ -7,7 +7,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 
 <p> Vídeos do canal: </p>
 <ul>
-  <li><a href="https://youtube.com/live/AqX_BI40fyY?feature=share">Vídeo chamada</a></li>
+  <li><a href="https://www.youtube.com/live/AqX_BI40fyY?feature=share">Vídeo chamada</a></li>
+  <li><a href="https://youtu.be/UfGoIp9WZgE">Vídeo 002 - Introdução ao conceito de variáveis.</a></li>
 </ul>
 
 <h2> Sobre </h2>
