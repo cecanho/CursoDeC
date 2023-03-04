@@ -1,0 +1,13 @@
+>>> Tipos básicos - primitivos
+int: números inteiros
+float: números reais com certa precisão
+double: números reais com uma precisão maior
+void: tipo vazio
+char: representa caracteres
+
+>>> Tipos variados do básico - construídos
+unsigned char: caracter sem sinal
+long int: representa um conjunto maior
+unsigned int: número inteiro positivo
+short int: um conjunto menor de números
+unsigned short int: um conjunto menor e positivo de números
