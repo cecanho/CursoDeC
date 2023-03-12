@@ -9,6 +9,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 <ul>
   <li><a href="https://www.youtube.com/live/AqX_BI40fyY?feature=share">Vídeo chamada</a></li>
   <li><a href="https://youtu.be/UfGoIp9WZgE">Vídeo 002 - Introdução ao conceito de variáveis.</a></li>
+  <li><a href="https://youtu.be/zBj1bbyz1Hk">Vídeo 003 - Mais sobre variáveis.</a></li>
+  <li><a href="https://youtu.be/BDHw02VDW7c">Vídeo 004 - Leitura de teclado com scanf.</a></li>
 </ul>
 
 <h2> Sobre </h2>
