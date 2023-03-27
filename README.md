@@ -12,7 +12,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/zBj1bbyz1Hk">Vídeo 003 - Mais sobre variáveis.</a></li>
   <li><a href="https://youtu.be/BDHw02VDW7c">Vídeo 004 - Leitura de teclado com scanf.</a></li>
   <li><a href="https://youtu.be/cTmCHKQDRPA">Vídeo 005 - Constantes.</a></li>
-  <li><a href="">Vídeo 006 - Operadores Matemáticos.</a></li>
+  <li><a href="https://youtu.be/uVddNLy3G3Y">Vídeo 006 - Operadores Matemáticos.</a></li>
 </ul>
 
 <h2> Sobre </h2>
