@@ -14,6 +14,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/cTmCHKQDRPA">Vídeo 005 - Constantes.</a></li>
   <li><a href="https://youtu.be/uVddNLy3G3Y">Vídeo 006 - Operadores Matemáticos.</a>
   <li><a href="https://youtu.be/ZM3jxX3IkDc">Vídeo 007 - Operadores de Comparação/Lógicos.</a></li>
+  <li><a href="https://youtu.be/1XWKoLBhsDo">Vídeo 008 - Operadores de atribuição composta e operadores lógicos.</a></li>
 </ul>
 
 <h2> Sobre </h2>
