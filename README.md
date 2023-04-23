@@ -16,6 +16,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/ZM3jxX3IkDc">Vídeo 007 - Operadores de Comparação/Lógicos.</a></li>
   <li><a href="https://youtu.be/1XWKoLBhsDo">Vídeo 008 - Operadores de atribuição composta e operadores ternários.</a></li>
   <li><a href="https://youtu.be/Ix-mQt8UV7M">Vídeo 009 - Função sizeof e precedência de operandos.</a></li>
+  <li><a href="https://youtu.be/qL_7S_OHkAg">Vídeo 010 - Estrutura de Decisão IF, ELSE.</a></li>
 </ul>
 
 <h2> Sobre </h2>
