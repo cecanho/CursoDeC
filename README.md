@@ -19,6 +19,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/qL_7S_OHkAg">Vídeo 010 - Estrutura de Decisão IF, ELSE.</a></li>
   <li><a href="https://youtu.be/exTboMQk2vQ">Vídeo 011 - Estrutura de Decisão SWITCH CASE.</a></li>
   <li><a href="https://youtu.be/Vtufm-cFDKI">Vídeo 012 - Estrutura de Repetição - Laço for.</a></li>
+  <li><a href="https://youtu.be/oAxafxfDln0">Vídeo 013 - Estrutura de Repetição - Laço while.</a></li>
 </ul>
 
 <h2> Sobre </h2>
