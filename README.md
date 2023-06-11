@@ -23,6 +23,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/d75kyFfLlw0">Vídeo 014 - Estrutura de Repetição - Laço do while.</a></li>
   <li><a href="https://youtu.be/JPYStwMgjio">Vídeo 015 - Array/Vetor.</a></li>
   <li><a href="https://youtu.be/e2I1I09PWxc">Vídeo 016 - Strings.</a></li>
+  <li><a href="https://youtu.be/oa4Iv3mEcNA">Vídeo 017 - Ponteiros.</a></li>
 </ul>
 
 <h2> Sobre </h2>
