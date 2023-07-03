@@ -26,6 +26,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/oa4Iv3mEcNA">Vídeo 017 - Ponteiros.</a></li>
   <li><a href="https://youtu.be/NZVBlLQQMHk">Vídeo 018 - Funções.</a></li>
   <li><a href="https://youtu.be/nziND_2uJgg">Vídeo 019 - Entrada e Saída (I/O).</a></li>
+  <li><a href="https://youtu.be/duXk_jVKgn0">Vídeo 020 - Escopo de variáveis.</a></li>
 </ul>
 
 <h2> Sobre </h2>
