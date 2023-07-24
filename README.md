@@ -29,7 +29,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/duXk_jVKgn0">Vídeo 020 - Escopo de variáveis.</a></li>
   <li><a href="https://youtu.be/ioXmOKGuB-s">Vídeo 021 - Definição de Tipos - Parte 1.</a></li>
   <li><a href="https://youtu.be/zkay2bUllvc">Vídeo 022 - Definição de Tipos - Parte 2.</a></li>
-  <li><a href="">Vídeo 023 - Argumentos da função int main.</a></li>
+  <li><a href="https://youtu.be/1mo9bBUBpqw">Vídeo 023 - Argumentos da função int main.</a></li>
 </ul>
 
 <h2> Sobre </h2>
