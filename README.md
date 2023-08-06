@@ -31,6 +31,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/zkay2bUllvc">Vídeo 022 - Definição de Tipos - Parte 2.</a></li>
   <li><a href="https://youtu.be/1mo9bBUBpqw">Vídeo 023 - Argumentos da função int main.</a></li>
   <li><a href="https://youtu.be/k-zYMFEpmpI">Vídeo 024 - Headers.</a></li>
+  <li><a href="https://youtu.be/Z6LMsG_DYDM">Vídeo 025 - Resolvendo Algoritmos em C - Parte 1.</a></li>
 </ul>
 
 <h2> Sobre </h2>
