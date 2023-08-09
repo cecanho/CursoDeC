@@ -35,7 +35,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/j4VJgckJOJs">Vídeo 026 - Resolvendo Algoritmos em C - Parte 2.</a></li>
   <li><a href="https://youtu.be/2Ltzs70cyPM">Vídeo 027 - Resolvendo Algoritmos em C - Parte 3.</a></li>
   <li><a href="https://youtu.be/V0dGf3c8bU0">Vídeo 028 - Resolvendo Algoritmos em C - Parte 4.</a></li>
-  <li><a href="">Vídeo 029 - Resolvendo Algoritmos em C - Parte 5.</a></li>
+  <li><a href="https://youtu.be/r5MyUWLF0LA">Vídeo 029 - Resolvendo Algoritmos em C - Parte 5.</a></li>
 </ul>
 
 <h2> Sobre </h2>
